@@ -6,6 +6,7 @@
 
 <hr>
 
+
 ###
 
 <img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNhbmZyampvanBobDBnMXlsNzFycXFxd2Z3dGFnN2hzZXdrMGw4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p4w0AMZJa2EtG/giphy.gif"  />
@@ -19,7 +20,9 @@
 <br clear="both">
 
 ###
-### 🚀 Sobre mim
+
+## 🚀 Sobre mim
+
 - Apaixonado por tecnologia, atualmente me especializando em **Desenvolvimento Fullstack Java**.   
 - 🖥️ Explorando **Spring Boot, SQL, APIs REST** e boas práticas de desenvolvimento.  
 - 📚 Sempre aprendendo! Participando dos bootcamps **Generation Brasil** e **Vai na Web**.  
@@ -28,12 +31,17 @@
 
 <br clear="both">
 
+## 📈 Estatísticas do GitHub
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FehMacedo10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="230" alt="stats graph" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMacedo10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
 
 <br clear="both">
+
+
+## 💻 Tecnologias que utilizo no dia a dia
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -87,6 +95,8 @@
 
 <br clear="both">
 
+## 👋 Minhas Redes Sociais. Segue Lá!
+
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-macedo-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -104,7 +114,5 @@
 ###
 
 <br clear="both">
-
-<hr>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=footer"/>
