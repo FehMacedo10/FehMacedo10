@@ -3,13 +3,22 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6fa5fcff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Felipe+Macedo+Ribeiro+💻;Tenho+24+anos.;👨‍💻+Estou+me+formando+em+ADS.+👩‍💻;Sejam+Bem+Vindos!+)](https://git.io/typing-svg)
- 
+
+<br clear="both">
+
 ###
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNhbmZyampvanBobDBnMXlsNzFycXFxd2Z3dGFnN2hzZXdrMGw4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p4w0AMZJa2EtG/giphy.gif"  />
 
 ###
 
+<br clear="both">
+
+<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhqaWtwOGdyb2ZyMHdiYmU2dHlmcDNhenUxbGJwMG0zcDM2N2J5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif"  />
+
+###
+
+<br clear="both">
  <div>
    <a href="https://github.com/FehMacedo10/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FehMacedo10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
