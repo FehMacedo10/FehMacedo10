@@ -33,14 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMacedo10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FehMacedo10/FehMacedo10/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -79,14 +71,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FehMacedo10/count.svg?"  />
-</div>
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-macedo-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -99,11 +83,25 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-
 </div>
 
 ###
- 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FehMacedo10/FehMacedo10/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FehMacedo10/count.svg?"  />
+</div>
+
+<br clear="both">
 
 <br>
 
