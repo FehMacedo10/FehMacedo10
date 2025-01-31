@@ -85,15 +85,7 @@
   <img src="https://profile-counter.glitch.me/FehMacedo10/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12168518587">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168518587&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-macedo-dev/" target="_blank">
@@ -107,8 +99,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+
 </div>
 
 ###
@@ -116,4 +107,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa5fcff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11294fff&height=120&section=footer"/>
