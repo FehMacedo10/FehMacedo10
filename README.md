@@ -23,11 +23,15 @@
 
 ## 🚀 Sobre mim
 
-- Apaixonado por tecnologia, atualmente me especializando em **Desenvolvimento Fullstack Java**.   
-- 🖥️ Explorando **Spring Boot, SQL, APIs REST** e boas práticas de desenvolvimento.  
-- 📚 Sempre aprendendo! Participando dos bootcamps **Generation Brasil** e **Vai na Web**.  
-- 🔍 Foco em **back-end**, mas também desenvolvendo projetos com **HTML, CSS e JavaScript**.  
-- 🤝 Colaborando em equipe, aplicando **metodologias ágeis** e aprimorando minhas habilidades.  
+<img align="right" width="200" src="https://i.gifer.com/4hsh.gif" />
+
+- Apaixonado por tecnologia, atualmente me especializando em **Desenvolvimento Fullstack Java**.
+- 🖥️ Explorando **Spring Boot, SQL, APIs REST** e boas práticas de desenvolvimento.
+- 📚 Sempre aprendendo! Participando dos bootcamps **Generation Brasil** e **Vai na Web**.
+- 🔍 Foco em **back-end**, mas também desenvolvendo projetos com **HTML, CSS e JavaScript**.
+- 🤝 Colaborando em equipe, aplicando **metodologias ágeis** e aprimorando minhas habilidades.
+
+<br clear="right"/>
 
 <br clear="both">
 
@@ -37,6 +41,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FehMacedo10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="230" alt="stats graph" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMacedo10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=github_dark&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
+
+
+  
+
 
 <br clear="both">
 
